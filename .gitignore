@@ -7,3 +7,10 @@
 
 
 !*.gitignore
+
+# Custom ignored folders
+server_connection_check/
+REC/
+ServiceCode/
+piston_arrowring_web/
+op40_tox/
