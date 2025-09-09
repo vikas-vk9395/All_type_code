@@ -21,6 +21,8 @@ from mysql.connector import Error
 processID = os.getpid()
 print("This process has the PID", processID)
 
+
+# I have add comment in this 
 INF_SCRIPT_POST_PATH = "/home/pwilsil03/Insightzz/code/Algorithms/ShellScripts/start_inf_post.sh"
 POST_FRAMES_PATH = "/home/pwilsil03/Insightzz/code/Algorithms/FrameCapture/start_all_cam_post.sh"
 ser = None
